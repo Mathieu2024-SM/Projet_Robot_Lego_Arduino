@@ -1,4 +1,5 @@
 # Projet_Robot_Lego_Arduino
+Conception d'un robot télécommandé en LEGO
 # Membre du groupe
 SCHELLENBAUM Mathieu - L3 Informatique
 
